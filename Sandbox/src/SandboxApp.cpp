@@ -5,12 +5,12 @@ class Sandbox : public Hazel::Application
 public:
 	Sandbox()
 	{
-		// 构造函数
+		// construction function
 	}
 
 	~Sandbox()
 	{
-		// 析构函数
+		// deconstruction function
 	}
 };
 
